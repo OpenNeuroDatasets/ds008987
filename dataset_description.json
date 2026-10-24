@@ -20,5 +20,8 @@
     "EthicsApprovals": [
         "Institutional Review Board of Emory University (#69592)"
     ],
-    "License": "CC0"
+    "License": "CC0",
+    "Funding": [
+        "R01 EY29724 (National Eye Institute)"
+    ]
 }
