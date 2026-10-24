@@ -1,0 +1,6 @@
+
+{
+  "TaskName": "rest",
+  "SkullStripped": false,
+  "Description": "Resting-state BOLD fMRI acquired with participants awake. Data were preprocessed using AFNI, including despiking, motion correction, temporal filtering (0.008–0.1 Hz), and nuisance regression using motion parameters, their derivatives, and ventricular and white matter signals."
+}
