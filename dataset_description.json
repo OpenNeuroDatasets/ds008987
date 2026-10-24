@@ -1,17 +1,22 @@
 {
-  "Name": "Adult resting-state fMRI data for three cortical scene systems",
-  "BIDSVersion": "1.10.0",
-  "DatasetType": "derivative",
-  "Authors": ["Yaelan Jung", "Daniel D. Dilks"],
-  "GeneratedBy": [
-    {
-      "Name": "Custom AFNI preprocessing and denoising pipeline",
-      "Description": "Resting-state BOLD data underwent motion correction, nuisance regression, and temporal filtering; consult README and the associated manuscript for processing details.",
-      "CodeURL": "https://github.com/yaelanjung/infantSceneConnHBCD"
-    },
-    {
-      "Name": "PyDeface",
-      "Description": "Removal of facial features from anatomical T1w images prior to public distribution."
-    }
-  ]
+    "Name": "Adult resting-state fMRI data for three cortical scene systems",
+    "BIDSVersion": "1.10.0",
+    "DatasetType": "derivative",
+    "Authors": [
+        "Yaelan Jung",
+        "Daniel D. Dilks"
+    ],
+    "GeneratedBy": [
+        {
+            "Name": "Custom AFNI preprocessing and denoising pipeline",
+            "Description": "Resting-state BOLD data underwent motion correction, nuisance regression, and temporal filtering; consult README and the associated manuscript for processing details.",
+            "CodeURL": "https://github.com/yaelanjung/infantSceneConnHBCD"
+        },
+        {
+            "Name": "PyDeface",
+            "Description": "Removal of facial features from anatomical T1w images prior to public distribution."
+        }
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds008987.v1.0.0",
+    "License": "CC0"
 }
